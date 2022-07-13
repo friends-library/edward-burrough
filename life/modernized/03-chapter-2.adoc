@@ -528,8 +528,13 @@ who also signed it.
 This will account for the alteration of the singular to the plural pronoun,
 which is to be found in it.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 29th of Sixth month, 1654.
 
+[.salutation]
 Dear Sister,
 
 Great is our care and charge.
@@ -607,9 +612,13 @@ Our chiefest care is, that we may be preserved in obedience, in power and in wis
 that the Lord may be glorified by us.
 We rest from writing, but continue to be your dearly beloved brethren in the Lord.
 
+[.signed-section-signature]
 Edward Burrough
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 Edward Burrough and Francis Howgill were still usefully occupied in London.
 Those who had been co-workers with them there, had all left them,
@@ -625,8 +634,13 @@ From the following letter, written by Francis Howgill to Robert Widders,
 we may gather some further particulars of the labours
 of Edward Burrough and himself in London.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, 23rd of Seventh month, 1654.
 
+[.salutation]
 Dear Brother,
 
 E+++.+++ B. and I stay still in London.
@@ -676,7 +690,10 @@ My dear yokefellow salutes you.
 
 Your dear friend in the work of the Lord.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 Under date of the 2nd of the eighth month, Francis Howgill writes: "`Our burden is great,
 we cannot get any separation, +++[+++that is of Friends from others], for the multitude,
