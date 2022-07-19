@@ -58,6 +58,10 @@ some of their hearers being convinced of the truth.
 Soon after arriving in Dublin,
 Edward addressed the following epistle to Friends in London, viz.;
 
+[.embedded-content-document.epislte]
+--
+
+[.letter-heading]
 A General Epistle to Friends in London.
 
 My dear beloved friends and brethren, in the everlasting unerring truth,
@@ -112,9 +116,13 @@ which cannot be hid.
 The Lord prosper you, and preserve you, and be with your spirits, and establish you.
 Amen.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 Dublin, the 14th of the Fifth month, 1655.
+
+--
 
 After they had been about three weeks in Dublin,
 Francis Howgill felt a concern to travel to the south-west,
@@ -147,6 +155,9 @@ Both of them were afterwards faithful sufferers for the truth.
 
 Edward Burrough remained in Dublin, and soon after his companion left him,
 he thus wrote to Margaret Fell;
+
+[.embedded-content-document.letter]
+--
 
 With heaviness of spirit, I write unto thee, yea, and with my eyes full of tears;
 for I am separated outwardly from my dear beloved brother Francis Howgill,
@@ -183,11 +194,24 @@ over all.
 As thou canst, at opportunity, write to us, it will make me glad;
 the face of one Friend would rejoice my soul.
 
+--
+
+[.offset]
 In a postscript he adds,
+
+[.embedded-content-document.letter]
+--
+
+[.postscript]
+====
 
 Here is a Friend come from England since I wrote this, from Oxford,
 who saith he was moved to come, and I believe it.
 I am refreshed by him.
+
+====
+
+--
 
 This Friend from Oxford was without doubt Thomas Loe.
 Edward Burrough was diligently employed in Dublin, in waiting on his ministry,
@@ -195,6 +219,10 @@ and writing to his friends and others.
 
 In a general epistle to his brethren in England, written while in that city, he says:
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Camp of the Lord in England.
 
 To all you called, chosen and beloved of the Lord,
@@ -428,7 +456,10 @@ upon the mountain which the beast cannot touch, where we are safe from all our e
 and am to you well known, to be read in your hearts,
 in the record of the Lamb`'s book of life, and known only to the world by the name of,
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
 
 It was, perhaps, toward the tenth month before he felt released from that city.
 He appears first to have gone to the north, and then to the south and west,
@@ -448,6 +479,9 @@ and walk as a bird among fowlers`' snares, and as an innocent dove which hath no
 nay, none unto whom I can open my cause, but the Lord my God only.`"
 
 On the 5th of the eleventh month, writing from Waterford to Margaret Fell, he says,
+
+[.embedded-content-document.letter]
+--
 
 Sister beloved, whom I forget not, but do remember with kindness,
 and of whom I am not forgotten.
@@ -493,6 +527,8 @@ Write and let us know, that we may partake with you in your rejoicing;
 and assuredly you may praise the living God on our behalf.
 Here is a great want of books in this nation,
 which might be very serviceable in spreading forth the truth.
+
+--
 
 In the tenth month of this year, a company of priests in the south of Ireland,
 finding that many of their flocks were leaving them,
@@ -555,9 +591,11 @@ Whilst in confinement, Edward wrote various addresses, one of which entitled,
 and their appeal to the just witnesses of God in all men`'s consciences,`" is here introduced,
 which is as follows:
 
-To all ye colonels and commanders and officers,
-and to all the honest-hearted in the city of Dublin and elsewhere,
-to whom this may come.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== To all ye colonels and commanders and officers, and to all the honest-hearted in the city of Dublin and elsewhere, to whom this may come.
 
 Hereby,
 we the prisoners of the Lord for the testimony of
@@ -676,9 +714,13 @@ and shall seal our witness against them, and against their unrighteous decrees,
 is sealed in their cruelty against the innocent,
 with our blood if thereunto we be called.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 Dublin, the 26th of the Twelfth month 1655.
+
+--
 
 On the 23rd,
 Edward Burrough sent a general challenge to all the priests in Dublin and its neighbourhood,
@@ -703,9 +745,11 @@ render them well worthy of a careful perusal.
 [.asterism]
 '''
 
-Several Epistles to Friends in London: written in the year 1655, by Edward Burrough,
-some of which were subscribed by Francis Howgill, who was fellow-labourer with him,
-in the work of the Lord.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== Several Epistles to Friends in London: written in the year 1655, by Edward Burrough, some of which were subscribed by Francis Howgill, who was fellow-labourer with him, in the work of the Lord.
 
 Friends of God in the truth,
 whom the Lord is gathering as desolate stones to build unto himself a habitation;
@@ -789,11 +833,19 @@ that life may spring up in you, to praise the Lord forever.
 We are servants unto you, and unto all the elect seed of God everywhere,
 for whose sakes we give ourselves to be spent.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-signature]
 Francis Howgill.
 
-+++_________+++
+--
+
+[.asterism]
+'''
+
+[.embedded-content-document.epistle]
+--
 
 Friends, whose minds are turned to the Lord, by that which is pure,
 which comes from him who is the light of the world; all mind it,
@@ -889,12 +941,19 @@ and so the everlasting God of life and power be with you all.
 
 Your dear brethren in the unchangeable love of God.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 [.asterism]
 '''
+
+[.embedded-content-document.epistle]
+--
 
 Dear and beloved Friends, in that which is pure, of God, and made manifest in you all,
 wait and abide; and walk in the light, which comes from Jesus,
@@ -969,14 +1028,22 @@ and be faithful to that of God made manifest in you all.
 
 Your dear brethren in the gospel of Christ committed to our charge,
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 [.asterism]
 '''
 
-To be read at meetings of Friends in London.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To be read at meetings of Friends in London.
 
 Friends of God, called by him out of the dark world, into his marvellous light;
 to all you who by the power of God are kept faithful,
@@ -1077,11 +1144,16 @@ The everlasting power of God bless you all,
 and keep you in his everlasting love and power, and give the victory over your enemies,
 that you may come to witness eternal life made manifest in you, from God.
 
+[.signed-section-closing]
 Your brethren in the work of the Lord,
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 [.asterism]
 '''
@@ -1171,17 +1243,22 @@ for you are our crown of rejoicing in the Lord.
 
 We are your brethren, nay, your servants for Christ`'s sake.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 [.asterism]
 '''
 
-To all the beloved friends, and brethren, and sisters,
-who are made partakers of his eternal Lord of life,
-by which you are gathered into one light and power,
-in which is life eternal abiding in it.
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== To all the beloved friends, and brethren, and sisters, who are made partakers of his eternal Lord of life, by which you are gathered into one light and power, in which is life eternal abiding in it.
 
 Dear Friends of God, who have received and heard the word,
 the immortal word with gladness and readiness,
@@ -1236,12 +1313,19 @@ The grace of God, by which you are saved from sin, be with you, and in you,
 to give you dominion over all: in it, we lie down with you,
 and are your brethren and servants for Christ`'s sake, to whom be glory forevermore.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-signature]
 Francis Howgill.
+
+--
 
 [.asterism]
 '''
+
+[.embedded-content-document.epistle]
+--
 
 Dear Friends in the truth of God, without respect of persons, grace,
 mercy and peace from the everlasting Father be multiplied among you,
@@ -1297,7 +1381,10 @@ The power of God Almighty fill your hearts with joy, and peace, and love in him;
 and this is the desire of my soul,
 who am a labourer amongst you in the work and travail of the gospel of Christ.
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
 
 On landing in England, they heard of a meeting to be held at Preston, in Lancashire,
 and being desirous to attend it,
@@ -1310,6 +1397,8 @@ and the meeting was held to the great advantage of Truth.
 Recurring to the recent field of labour which he and Francis had been engaged in,
 Edward writes:
 
+[quote]
+____
 Truly great service for the Lord we had in Ireland, for near seven months;
 the particulars would be very large; but in short,
 there is a precious work begun and seed sown, which shall never die.
@@ -1319,6 +1408,7 @@ which will be a little hindrance to him at present,
 as to settle his children and the like;
 but truly he is wholly given up to do our Father`'s will, through great and many trials,
 and dangers and sufferings.
+____
 
 From Preston, Edward Burrough and companion proceed to Lancaster,
 and from thence to visit Friends in the counties still further north.
@@ -1366,13 +1456,22 @@ Francis Howgill held the pen.
 This communication bears witness to the unity and fellowship subsisting amongst them.
 They say,
 
+[.embedded-content-document.letter]
+--
+
 Dear brethren, we are with you in your bonds, in your reproaches and imprisonments,
 and in your rejoicings: your joy is ours,
 for we eat with you and drink with you at our Father`'s table,
 where there is plenteous nourishment for all those who wait in his counsel,
 and are obedient to his commands.
 
+--
+
+[.offset]
 In respect to things in London they say;
+
+[.embedded-content-document.letter]
+--
 
 Dear brethren, our care is great; the harvest is great;
 who are sufficient for these things?
@@ -1396,6 +1495,8 @@ at two steeple houses, where the wise of the city come; and I had great liberty,
 and spoke toward an hour: all were silent,
 and some confessed they never heard so much truth in power delivered.
 Many would have had me to their houses; but we lay hands on none hastily.
+
+--
 
 James Lancaster and Miles Halhead were at this time in London, but tarried not long there.
 The parliament had met on the 17th,
