@@ -217,25 +217,38 @@ refused to have any discourse with them afterwards.
 On the 20th, Edward addressed to the Jesuits, priests and friars, a paper,
 containing assertions to this effect:
 
-1st. That the Romish church was not the true church of Christ.
+[.numbered-group]
+====
 
-2nd. That the constitution of the church,
+[.numbered]
+_1st._ That the Romish church was not the true church of Christ.
+
+[.numbered]
+_2nd._ That the constitution of the church,
 and the chief part of the forms of its worship and ordinances, were of man.
 
-3rd. That there had been a general declension in the world, from true faith and doctrine, etc.
+[.numbered]
+_3rd._ That there had been a general declension in the world, from true faith and doctrine, etc.
 
-4th. That antichrist had reigned for generations.
+[.numbered]
+_4th._ That antichrist had reigned for generations.
 
-5th. That the true church was yet in the wilderness.
+[.numbered]
+_5th._ That the true church was yet in the wilderness.
 
-6th. That compelling persons by outward law to conform to certain religions,
+[.numbered]
+_6th._ That compelling persons by outward law to conform to certain religions,
 and to persecute and kill them for matter of conscience, was a worship of the beast.
 
-7th. That none are members of the true church,
+[.numbered]
+_7th._ That none are members of the true church,
 but such as are changed and renewed by the power of the Lord God in the heart,
 and are joined to Christ the head.
 
-8th. That the time is coming, when Babylon shall be thrown down.
+[.numbered]
+_8th._ That the time is coming, when Babylon shall be thrown down.
+
+====
 
 Many meetings Edward and his companion had in the town,
 and much service in the English army, with very little disturbance.
@@ -254,25 +267,36 @@ that if they would state some of their principles in writing,
 he would answer them in dispute in some public place.
 In conformity to his request, they prepared the following brief propositions:
 
-1st. That Christ hath enlightened all men with a light,
+[.numbered-group]
+====
+
+[.numbered]
+_1st._ That Christ hath enlightened all men with a light,
 sufficient to bring them to salvation, if they follow it.
 
-2nd. That God hath given Christ to be the Saviour of all men.
+[.numbered]
+_2nd._ That God hath given Christ to be the Saviour of all men.
 
-3rd. That none are justified by Christ and his righteousness, without them,
+[.numbered]
+_3rd._ That none are justified by Christ and his righteousness, without them,
 but as they have received Christ and his righteousness,
 and witnessed them revealed in themselves.
 
-4th. That the saints of God may be perfectly free from sin in this life,
+[.numbered]
+_4th._ That the saints of God may be perfectly free from sin in this life,
 so as no more to commit it.
 
-5th. That the national ministers and churches, not only of papists,
+[.numbered]
+_5th._ That the national ministers and churches, not only of papists,
 but of the protestants also, as they now stand,
 are not true ministers and churches of Christ.
 
-6th. That the scriptures are a true declaration, given forth from the Spirit of God,
+[.numbered]
+_6th._ That the scriptures are a true declaration, given forth from the Spirit of God,
 by holy men of God, moved by it to write them, and are profitable;
 but are not the foundation, nor the most perfect rule of faith and life, to the saints.
+
+====
 
 These propositions the Friends tell the priest in an accompanying note,
 they are willing and desirous to discourse upon,
@@ -326,8 +350,13 @@ In the fifth month, Edward Burrough delivered, or caused to be delivered,
 the following address to Richard Cromwell and his brother Henry,
 who now felt that their power and influence had departed from them.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To R. C. and H. C.
 
+[.salutation]
 Friends,
 
 Yet once more hath the Lord given me somewhat to say unto you,
@@ -388,6 +417,8 @@ which Christ hath enlightened you with,--which lets you see sin,
 and convinceth you of your evil deeds;--that Light must you own to be your teacher.
 You must become subject to it in all things, or you have no part in the kingdom of God.
 
+--
+
 About this time Friends at Sabridgeworth, in Hertfordshire,
 were suffering much insult and abuse from the rude rabble,
 who were encouraged in their evil actions by Thomas Hewit,
@@ -433,8 +464,11 @@ he addressed the Parliament then assembled--the Long Parliament having
 again come into power--in a communication characterized by great plainness.
 It commences thus:
 
-To the Parliament of the Commonwealth of England,
-the Present Authority of These Nations Assembled at Westminster
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== To the Parliament of the Commonwealth of England, the Present Authority of These Nations Assembled at Westminster
 
 A presentation, by a faithful friend to the nation, in the name,
 and by the spirit of Jesus Christ, King of Righteousness and Peace;
@@ -446,9 +480,14 @@ and the kingdom of the Son of God be set up among us; that you and we,
 may at last be free subjects of Christ`'s kingdom, where righteousness,
 truth and peace may run down, and be established forevermore.
 
+--
+
 He acknowledges that during the long time that Parliament had borne rule in England,
 many cruel laws had been made void,
 and the kingdom of Antichrist had received many a wound:
+
+[.embedded-content-document.address]
+--
 
 There have been divers times the fair blossoms of the glorious appearance of truth,
 righteousness and peace.
@@ -477,6 +516,8 @@ and to take unto themselves the honours, and titles, and possessions of their en
 and so have been guilty of their enemies`' sins,
 the good work of the Lord by them could not prosper.
 
+--
+
 He then goes on to point out the yoke of tithes, and the forced maintenance of ministers,
 as some of the oppressions of Antichrist not yet abolished.
 
@@ -497,6 +538,10 @@ so called, Council of Officers, or Others Whatsoever.
 He had felt a concern to speak the substance of this
 to the rulers but no way had opened for it.
 
+[.embedded-content-document.address]
+--
+
+[.salutation]
 Friends,
 
 My Master is a high, and mighty, and powerful prince, and very honourable; and fear,
@@ -1103,9 +1148,13 @@ and thus far I am clear; and whether you accept it or reject it,
 my peace and reward is forever with him, who am a subject of his kingdom,
 and a friend to this nation, however otherwise judged by ignorant men.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 Ninth month, 1659.
+
+--
 
 How strongly prophetic the language in the foregoing,
 "`Your estates shall not be spared from the spoiler, nor your necks from the axe;

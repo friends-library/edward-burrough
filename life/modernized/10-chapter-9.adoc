@@ -132,6 +132,10 @@ and he laboured fervently in various ways to stop
 the persecution then raging against them in New England.
 On the 24th of the eleventh month, he wrote the following letter to Parliament;
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 All these overturnings, and almost wonderful changings,
@@ -247,10 +251,16 @@ Let the whole earth, and all the powers thereof, bow and tremble before him;
 let not your hearts be stout and rebellious against him, for he can grind you to powder,
 and sink you into confusion and misery, as a stone into the sea.
 
+--
+
 This was directed for the hands of the speaker in Parliament,
 and accordingly was given to William Lenthal,
 being enclosed to him with these lines following:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 The enclosed I do commend unto you to present unto the House,
@@ -262,9 +272,13 @@ as though it were not of worth to you.
 I lay it upon you, as you will answer the contrary at the dreadful day of God,
 when the King of righteousness shall judge you and all mankind.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 The 24th of the eleventh month, 1659.
+
+--
 
 About the close of 1658 Edward Burrough had met with a paper circulated for signatures,
 which purported to be a free call to William Brunsward to exercise his ministry at Kendal.
@@ -317,6 +331,9 @@ in which he successfully refutes the accusations,
 and gives much pertinent advice to the authors of them.
 From this Essay the following is extracted:
 
+[.embedded-content-document]
+--
+
 That many horrid errors have abounded among you, is very true,
 as in many particulars might be instanced.
 But why do you maliciously charge the Quakers with opposing the interest of Christ Jesus?
@@ -358,6 +375,8 @@ Do you think that your congregations are all so blind
 as to receive for truth what you have herein spoken;
 no, I must tell you, some of them are offended with you because hereof.
 
+--
+
 On the first day of the third month, 1660, Edward Burrough being in Oxfordshire,
 felt a concern that his brethren should be preserved
 in the true place of spiritual safety,
@@ -365,6 +384,10 @@ amid the tumults, agitations, and fears which were shaking the nation,
 at the bringing in of King Charles II.,
 and addressed them in an Epistle which contained the following:
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dearly Beloved,
 
 Whom the Father has called and chosen into the election of eternal salvation,
@@ -735,9 +758,13 @@ who am a companion to all that travail after truth and righteousness,
 and that seek the Lord in their hearts that he may rule; and these things were upon me,
 to send among the flock of God, to be read in all your meetings.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 Oxfordshire, the 1st day of the Third month, 1660.
+
+--
 
 Charles II. was now established as King over Great Britain,
 and as many public predictions had been given out by Friends,
@@ -798,7 +825,11 @@ with his usual faithfulness and success.
 On the 21st of the sixth month he once more addressed
 an epistle to his beloved Friends in London.
 
+[.offset]
 At the close of this epistle he says:
+
+[.embedded-content-document.epistle]
+--
 
 I am now according to the will of the Father in Ireland.
 It is some weeks since I arrived in Cork city in much peace and safety,
@@ -830,6 +861,8 @@ The Lord preserve all the brethren likeminded,
 that the work of the Lord may be fulfilled and finished by us.
 Amen.
 
+--
+
 He travelled throughout Ireland,
 and for six months laboured abundantly in the defence
 and promulgation of the truth in that nation.
@@ -842,6 +875,10 @@ The account of this stirred up the warm feelings of Christian love in Edward,
 and it would seem, from the following eloquent and fervent letter,
 he had a foresight that he would speedily suffer, even to death, among them.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 My very dear and beloved Friends:
 
 My very heart is filled with love to you,
@@ -880,7 +917,11 @@ But if he will not, as you have often heard me say, let us not bow to the devil.
 My heart is full,--but I must cease from writing, though never from love,
 nor from being your very dearly and tenderly beloved
 
+[.signed-section-signature]
 Edward Burrough.
+
+[.postscript]
+====
 
 How shall I mention any by name in the remembrance of my love?
 I heartily love all the saints, and bid all the faithful in my soul farewell.
@@ -888,7 +929,12 @@ I cannot give any particular account of my peril and sore
 travail;--but all is well as to truth in this land,
 and God has been, is, and let him ever be, with me.
 
+====
+
+[.signed-section-context-close]
 Cork, the 18th of Eleventh month, 1660.
+
+--
 
 From Cork, Edward Burrough appears to have taken passage to Bristol,
 from which place on the 11th of twelfth month,
@@ -899,6 +945,9 @@ and not to be dismayed or discouraged,
 but lift up their heads in humble hope and confidence in the Lord,
 and commit themselves wholly into his hand.
 He thus concludes:
+
+[.embedded-content-document.epistle]
+--
 
 It is now eight days since I left Ireland,
 where my service has been precious for the Lord, for full six months;
@@ -929,9 +978,13 @@ your dear brother and companion,
 by doing and suffering for the name of the Lord and his truth.
 I am well, and at liberty as yet.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 11th of the Twelfth month, 1660.
+
+--
 
 The insurrection of the fifth monarchy men,
 had occasioned a proclamation from King Charles against
@@ -995,6 +1048,9 @@ and the taking of their lives.
 To expose the fallacies of this address, Edward Burrough was soon ready with a work,
 entitled Some Considerations, in which he says:
 
+[.embedded-content-document]
+--
+
 I do testify to the king, and before the whole world,
 that we do profess and believe concerning the Father, Son and Spirit,
 and the Lord Jesus Christ, and the blessed Gospel, and the Holy Scriptures.
@@ -1028,6 +1084,8 @@ this is also a false accusation and slander; for our doctrines are to convert,
 and not to subvert.
 Even to convert to God, and truth, and righteousness,
 that men should live in these things, and forsake all that which is contrary.
+
+--
 
 As many things were stated falsely concerning the doctrines and practices of Friends,
 Edward Burrough deemed it right to draw up something
