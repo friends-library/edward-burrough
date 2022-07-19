@@ -37,6 +37,9 @@ carelessness and wickedness, as well as a warning to flee from them,
 and a tender invitation to come unto Christ Jesus, that salvation may be experienced.
 He says:
 
+[.embedded-content-document]
+--
+
 Ignorance abounds in your old men, and rudeness and wildness in your youth.
 Your people are without the knowledge of God, and perish for lack of knowledge.
 You are even as a wild untilled garden, which brings forth no pleasant fruit.
@@ -86,9 +89,15 @@ Speak the truth one to another, and let no guile dwell in your lips,
 nor a deceitful tongue in your mouth.
 Cease from all vain glory, and vain customs and fashions of the world, which are evil.
 
+--
+
 Attached to this "`Testimony concerning London,`" is the following:
 
-A Warning to All Sorts of People
+[.embedded-content-document]
+--
+
+[.blurb]
+=== A Warning to All Sorts of People
 
 You merchants and traders, and traffickers, and all you that buy and sell,
 be plain and upright-hearted; and lie not, swear not,
@@ -247,9 +256,13 @@ I am as a stranger among you, yet well known to the Lord,
 and the testimony of God concerning you shall stand forever, for it is true,
 and shall not be confounded, though the wicked reject it to their own destruction.
 
+[.signed-section-signature]
 Edward Burrough.
 
+[.signed-section-context-close]
 London, the 15th the of Sixth month, 1657.
+
+--
 
 Edward Burrough appears to have remained in London and neighbourhood,
 most of the summer of 1657, and was as usual industrious,
@@ -308,7 +321,11 @@ in which he sets forth some of the principles and
 testimonies of the religious Society of Friends.
 This work contains the following:
 
-Concerning the True God
+[.embedded-content-document]
+--
+
+[.blurb]
+=== Concerning the True God
 
 The true God is a Spirit, and is infinite, eternal, and everlasting,
 the Creator of all things, the life and being of all things,
@@ -331,7 +348,8 @@ and shows unto man his own thoughts--he justifies the righteous and condemns the
 He is light itself, and in him is no darkness at all.
 This is the true God whom we worship.
 
-Concerning the Son of God
+[.blurb]
+=== Concerning the Son of God
 
 The Son of God, who is called Christ, the Prince of peace and righteousness,
 is one with the Father in power and dominion, and was with him before the world was.
@@ -359,7 +377,8 @@ But many receive him not, and they that receive him not, perish,
 even because they do not receive him whom the Father has given into the world;
 for he is the arm of God`'s salvation, and is the leader of his people.
 
-Concerning the Spirit of God
+[.blurb]
+=== Concerning the Spirit of God
 
 The Spirit is with the Father, and with the Son, is present everywhere, fills all places,
 and is forever and ever.
@@ -385,7 +404,8 @@ This is the testimony of the spirit of God, and it leads into all truth,
 and out of all evil, all that are guided by it;
 and it is given to be the guide and rule of life to the children of God.
 
-Concerning Man, and All Mankind
+[.blurb]
+=== Concerning Man, and All Mankind
 
 Man was created in the image of God, and was without sin or evil brought forth,
 to do the will of him that created him, and was Lord over all creatures,
@@ -414,8 +434,8 @@ bringing forth cursed fruits, which the Creator has not pleasure in.
 His best works are not accepted, and his evil deeds are condemned,
 because the ground in which he stands is accursed, because of disobedience.
 
-Concerning the World in General, and the State of Things as They Have Been,
-and as Now They Are
+[.blurb]
+=== Concerning the World in General, and the State of Things as They Have Been, and as Now They Are
 
 Darkness has been over the face of the earth,
 and thick darkness has covered the people for many ages.
@@ -489,8 +509,8 @@ and the worship in spirit and in truth shall be established;
 for the Lord is gathering his numberless number,
 to stand before his throne without guile in their mouths, and without fault before him.
 
-Concerning Man`'s Restoration, Redemption and Salvation, What They Are,
-and by Whom They Are Wrought
+[.blurb]
+=== Concerning Man`'s Restoration, Redemption and Salvation, What They Are, and by Whom They Are Wrought
 
 Man`'s restoration is a repairing and giving again that which he had lost by transgression.
 Redemption is a recovering, and a winning again,
@@ -522,7 +542,8 @@ have not any part or portion in those things which belong to their peace;
 and without the knowledge of which, by the working of the eternal spirit,
 all mankind are everlastingly miserable.
 
-Concerning True Religion, and the True Worship of the True God
+[.blurb]
+=== Concerning True Religion, and the True Worship of the True God
 
 This is true religion, to be kept pure and clean from all evil,
 and from all that which would defile in the sight of the Lord,
@@ -545,7 +566,8 @@ and by him have their consciences purely exercised toward God,
 and towards man in all things; and this is our religion and worship of the true God:
 he that can receive it, let him.
 
-Concerning Justification and Sanctification
+[.blurb]
+=== Concerning Justification and Sanctification
 
 Justification is freely by Jesus Christ in the sight of the Father,
 and not by the works of man`'s own righteousness.
@@ -573,7 +595,8 @@ every man that comes into the world,
 receive sanctification and justification by him, and he unto us is made so of the Father.
 He that can receive it, let him.
 
-Concerning the Kingdom of Christ, and How it is Set Up
+[.blurb]
+=== Concerning the Kingdom of Christ, and How it is Set Up
 
 The kingdom of God, and of his Son, is not of this world, but is from above,
 and stands in righteousness and in truth, in mercy and in peace,
@@ -606,7 +629,8 @@ The kingdom of Christ is near to come, and the kingdoms of this world shall be c
 and none shall have any part therein, but they that are redeemed out of kindreds,
 tongues, and people.
 
-Concerning Governors and Governments, and Subjection to Them
+[.blurb]
+=== Concerning Governors and Governments, and Subjection to Them
 
 Governors, rulers, and magistrates we own, and do respect in the Lord;
 (and yet cannot respect any man`'s person whatsoever)
@@ -656,8 +680,8 @@ This we do and teach everywhere, subjection to every ordinance of man,
 and are not destroyers of true government, or rebellious against just governors,
 but are exalters of true justice and judgment in the earth.
 
-Concerning the True Ministry of Christ, and the False Ministry,
-and the Difference Between Them
+[.blurb]
+=== Concerning the True Ministry of Christ, and the False Ministry, and the Difference Between Them
 
 The true ministry is sent of God, and is the gift of the Holy Spirit,
 and it stands in the power of the spirit of God, and not in the words of man`'s wisdom,
@@ -718,7 +742,8 @@ which is given by the spirit of God, to that ministry which is sent of him,
 which fulfils his will, and against the false ministry which is not of God,
 which runs and was never sent of him.
 
-Concerning the Gospel of Christ
+[.blurb]
+=== Concerning the Gospel of Christ
 
 The Gospel is the power of God,
 and it is sent of him into the world to reconcile people unto him,
@@ -742,7 +767,8 @@ This gospel which is everlasting, have we received from God,
 and this is the sound of it which we give unto the world; fear God,
 and give glory to him, for the hour of his judgment is come.
 
-Concerning the Word of God, and Concerning the Scriptures
+[.blurb]
+=== Concerning the Word of God, and Concerning the Scriptures
 
 The Word of God was in the beginning before any creatures were made,
 and by it all things stand and remain unto this day.
@@ -773,7 +799,8 @@ but they that have the Word cannot but own the Scriptures,
 and this is the truth as it is in Jesus, testified to all the world by us,
 who deny them that hereof give any other testimony.
 
-Concerning the Devil and Damnation
+[.blurb]
+=== Concerning the Devil and Damnation
 
 There is a devil which is out of the truth, who abode not in the truth,
 but is a liar from the beginning, and the father of all evil doing,
@@ -828,7 +855,8 @@ He lives and moves in the anger of God, and all his works are in it,
 and it shall be the reward of him, and all that obey him,
 in separation from God`'s everlasting presence, forever and ever.
 
-Concerning all Created Things that God Made
+[.blurb]
+=== Concerning all Created Things that God Made
 
 All created things that God made,
 in their creation and beginning were very good in his sight that made them,
@@ -876,7 +904,8 @@ but for the health`'s sake are they used to the glory of the Creator,
 and to the end for which he created them, and are pure as they were in the beginning,
 and the blessing is felt which is more than all created things.
 
-Concerning the New Covenant, and How Man Comes to the Knowledge of God
+[.blurb]
+=== Concerning the New Covenant, and How Man Comes to the Knowledge of God
 
 The covenant of God is unity between God and man, and a binding each to another,
 to serve each other.
@@ -939,7 +968,8 @@ neither can the knowledge of God be received by the traditions of men,
 nor any outward observance in the will of men;
 but only by the teachings of the eternal spirit, is the living God known in the creature.
 
-Concerning Faith
+[.blurb]
+=== Concerning Faith
 
 Faith is the gift of God, and by it Christ is received and enjoyed.
 It is the substance of things hoped for, and the very evidence of things not seen.
@@ -964,7 +994,8 @@ even the knowledge of those things which are eternal, which is not our own,
 but the Lord`'s, to give forth according to his movings,
 and of those things have we handled, tasted and felt.
 
-Concerning What Works are Accepted of God, and What Works are Not Accepted
+[.blurb]
+=== Concerning What Works are Accepted of God, and What Works are Not Accepted
 
 Whatever work man is moved and led unto by the spirit of God,
 and guided and ruled in the practice of, to speak or act by the same spirit,
@@ -1009,8 +1040,8 @@ of not being guided, with the measure of God`'s pure spirit.
 Therefore are man and his works good, and accepted; or evil, and not regarded,
 but condemned of God.
 
-Concerning Man`'s State in the First Adam, Before Conversion,
-and His State After Conversion, and What Conversion Is
+[.blurb]
+=== Concerning Man`'s State in the First Adam, Before Conversion, and His State After Conversion, and What Conversion Is
 
 Man`'s state in the first Adam, in transgression,
 is a state of perfect enmity against God.
@@ -1363,9 +1394,13 @@ and all governments of men established according to it;
 and this is our testimony which we give forth in words and practice,
 and if it be required can seal it with our blood.
 
+[.signed-section-closing]
 Given forth by a servant of the Lord,
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
 
 Sometime about the ninth month of this year, Christopher Fowler, a priest at Reading,
 in Berkshire, challenged Edward Burrough to a public dispute.
@@ -1401,6 +1436,9 @@ where in the tenth month he finished a work entitled
 The True Christian Religion Again Discovered,
 After the Long and Dark Night of Apostasy.
 It commences thus:
+
+[.embedded-content-document]
+--
 
 Forasmuch as Oliver Cromwell, called Lord Protector of England, Scotland and Ireland,
 chief ruler according to man, has bound himself by an oath, and sworn,
@@ -1514,6 +1552,8 @@ as it is held forth in the Scriptures;
 because this part of your practice in religion is not according,
 but contrary to the Scriptures.
 
+--
+
 On the 18th of the eleventh month 1657,
 Edward Burrough had a dispute with Richard Goodgroom, at Drayton in Middlesex.
 The principal points in the controversy, appear to have been,
@@ -1578,6 +1618,8 @@ straight forward simplicity of George Fox,
 and he most signally failed in the controversy.
 The following account of this interview is from the Journal of George Fox:
 
+[quote]
+____
 When we were come to the house, I bid Nicholas Bond and Edward Burrough go up,
 and enter the discourse with him; and I would walk awhile in the yard,
 and then come up after them.
@@ -1716,6 +1758,7 @@ He said, "`Yes:`" "`Why then,`" said I, "`are they not members of your church?`"
 Then I left it to the people to judge from his own concessions,
 whether the church of Rome does not persecute, and put people to death for religion.
 Thus we parted, and his subtlety was confuted by simplicity.
+____
 
 On the 31st of the fifth month came on the suit of Parson Mayo, against Edward Burrough,
 for defamation.
@@ -1813,6 +1856,10 @@ and very absurd petitions and remonstrances to the Most High were made by them.
 Edward Burrough on the 1st of the seventh month,
 addressed the following letter to the Protector`'s family.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,
 
 Remember, that by the Lord you were raised from a low state,
@@ -1853,7 +1900,10 @@ which will waste and consume away, and leave you miserable.
 
 The Lord has warned you, by a friend unto you in the Lord.
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
 
 On the 3rd Oliver Cromwell died,
 and outward lamentation and inward mourning were that day felt among many,
@@ -1864,6 +1914,9 @@ and he was proclaimed Protector on the 6th of the month.
 
 A few days after this, Edward Burrough addressed a letter to Richard Cromwell,
 chosen to be Protector, etc. of these nations; and speaking of the rulers, he says thus:
+
+[.embedded-content-document.letter]
+--
 
 As for magistracy, it was ordained of God to be a dread and terror,
 and limit to evil-doers, and to be a defence and praise to all that do well;
@@ -1915,12 +1968,17 @@ and have suffered great injustice in these nations, through the abuse of good go
 and degeneration of magistracy from its perfect state and place,
 whereunto it was ordained of God in the beginning, etc.
 
+--
+
 In this year he wrote a short statement of the principles
 of the religious society of which he was a member,
 as follows:
 
-A Declaration to All the World of our Faith; and What we Believe, Who are Called Quakers.
-Concerning God, Christ, and the Spirit, Thus we Believe.
+[.embedded-content-document]
+--
+
+[.blurb]
+=== A Declaration to All the World of our Faith; and What we Believe, Who are Called Quakers. Concerning God, Christ, and the Spirit, Thus we Believe.
 
 First, That there is only one true God, who is a spirit;
 and his presence fills heaven and earth; and he is eternal and everlasting,
@@ -2179,7 +2237,10 @@ who are made heirs with Christ of the everlasting inheritance, that never fades 
 And this we faithfully believe, That mercy is not showed to the reprobate,
 nor judgment to them that are chosen of God.
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
 
 On the 22nd of the ninth month, Edward Burrough was at Kingston; on the 23rd,
 as he was entering London, at Charing Cross,
@@ -2243,6 +2304,10 @@ I am certain the witness of God in his conscience might truly have said it.`"
 
 In the tenth month Edward addressed the following to Richard Cromwell and his council:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Protector and his Council
 
 The Lord God will shortly make you know that we are his people;
@@ -2255,12 +2320,19 @@ yet judgments shall awaken you,
 and his heavy hand of indignation shall lie upon your consciences,
 and you will be scattered and distracted to pieces.
 
+[.signed-section-signature]
 Edward Burrough.
 
+--
+
+[.offset]
 In this year he also wrote the following Epistles:
 
-An Epistle to go Abroad Among Friends, in Westmoreland and Cumberland,
-and Elsewhere Among the Flock of God
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== An Epistle to go Abroad Among Friends, in Westmoreland and Cumberland, and Elsewhere Among the Flock of God
 
 Friends, my love and life, which is not of this world, but is in the living God,
 does reach unto and salute all you that are in the light of life,
@@ -2360,9 +2432,16 @@ and I am clear thus far of the charge committed to me of God towards you,
 and am in the truth itself, which cannot change,
 and I am in it your friend in the service of the Lord God.
 
+[.signed-section-signature]
 Edward Burrough.
 
-A Second General Epistle to all the Saints
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.blurb]
+=== A Second General Epistle to all the Saints
 
 A servant of the Lord and minister of Jesus Christ,
 thereunto ordained and called through the powerful operation and gift of the Holy Spirit,
@@ -2604,10 +2683,18 @@ and in patience waited for, till the Lord alone, our King, and Judge, and Lawgiv
 comes to reign over all his enemies; when all that now suffer for him,
 shall reign with him.
 
+[.signed-section-closing]
 A servant to the churches of Christ,
 
+[.signed-section-signature]
 Edward Burrough.
 
+--
+
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 To the Elect and Chosen Seed of God in London
 
 To the elect and chosen seed of God, most dear and precious, who are redeemed to God,
@@ -2805,4 +2892,7 @@ whose presence and arm be among you forevermore.
 Feel Christ the power and wisdom of God to reign in you, and govern you all.
 Farewell.
 
+[.signed-section-signature]
 Edward Burrough.
+
+--
