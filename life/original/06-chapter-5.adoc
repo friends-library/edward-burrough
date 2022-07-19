@@ -483,6 +483,7 @@ On the 5th of the eleventh month, writing from Waterford to Margaret Fell, he sa
 [.embedded-content-document.letter]
 --
 
+[.salutation]
 Sister beloved, whom I forget not, but do remember with kindness,
 and of whom I am not forgotten.
 
@@ -939,6 +940,7 @@ But all dwelling in that which is pure, you will be preserved out of all snares,
 and temptations, and your minds kept clear and pure, out of all things that defile;
 and so the everlasting God of life and power be with you all.
 
+[.signed-section-closing]
 Your dear brethren in the unchangeable love of God.
 
 [.signed-section-signature]
@@ -1400,8 +1402,9 @@ and the meeting was held to the great advantage of Truth.
 Recurring to the recent field of labour which he and Francis had been engaged in,
 Edward writes:
 
-[quote]
-____
+[.embedded-content-document.letter]
+--
+
 Truly great service for the Lord we had in Ireland, for near seven months;
 the particulars would be very large; but in short,
 there is a precious work begun and seed sown, which shall never die.
@@ -1411,7 +1414,8 @@ which will be a little hindrance to him at present,
 as to settle his children and the like;
 but truly he is wholly given up to do our Father`'s will, through great and many trials,
 and dangers and sufferings.
-____
+
+--
 
 From Preston, Edward Burrough and companion proceed to Lancaster,
 and from thence to visit Friends in the counties still further north.
