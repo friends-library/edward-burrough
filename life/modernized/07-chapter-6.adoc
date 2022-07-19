@@ -718,7 +718,7 @@ establish you, and preserve you: amen and amen.
 --
 
 The second Epistle addressed "`to all that suffer for the testimony of Jesus,
-and for his name`'s sake,`" is as follows;
+and for his name`'s sake,`" is as follows:
 
 [.embedded-content-document.epistle]
 --
@@ -939,6 +939,7 @@ and all caring for the truth above all things, that God may dwell among you,
 and be known that he is in you of a truth.
 And in this, the wisdom of God guide you all, Amen.
 
+[.signed-section-closing]
 By a companion in tribulation to all the saints everywhere.
 
 [.signed-section-signature]
