@@ -58,7 +58,7 @@ some of their hearers being convinced of the truth.
 Soon after arriving in Dublin,
 Edward addressed the following epistle to Friends in London, viz.;
 
-[.embedded-content-document.epislte]
+[.embedded-content-document.epistle]
 --
 
 [.letter-heading]
@@ -1157,6 +1157,9 @@ Francis Howgill.
 
 [.asterism]
 '''
+
+[.embedded-content-document.epistle]
+--
 
 Dear Friends, in the everlasting covenant of life and peace whom we bear witness of,
 and unto whom we have declared and preached in season and out of season; yea,
