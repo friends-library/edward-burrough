@@ -4,6 +4,9 @@ In a testimony given forth concerning him by Francis Howgill,
 his companion and fellow traveller in the ministry of the gospel, we find the following,
 viz.:
 
+[.embedded-content-document.testimony]
+--
+
 Shall days, or months, or years wear out thy name, as though thou hadst had no being?
 Oh nay!
 Shall not thy noble and valiant acts,
@@ -173,8 +176,13 @@ many being shut up among the felons in nasty places, and for want of prison room
 the natures of many were suffocated and corrupted; till at last they grew weak,
 sickened and died.
 
+--
+
 After relating the circumstances of his sickness and death,
 which have already been given in the memoir, he thus concludes:
+
+[.embedded-content-document.testimony]
+--
 
 And after a little season he gave up the ghost and died a prisoner,
 and shall be recorded and is in the Lamb`'s book of life,
@@ -186,7 +194,8 @@ and thousands beside myself can bear witness, his life and death was to the prai
 honour and glory of the grace of God; unto whom be the glory of all his works forever,
 Amen.
 
-George Whitehead Says Respecting Him:
+[.blurb]
+=== George Whitehead Says Respecting Him:
 
 As for Edward Burrough, our dear brother and companion in travel,
 suffering and consolation for the everlasting gospel`'s sake in his day,
@@ -260,9 +269,13 @@ whom the prince of this world hath nothing in, we have peace;
 being come into communion with the spirits of just men, who are the family of God,
 written in heaven, and called by one name both in heaven and earth.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 London, the 12th day of the first month, 1663.
+
+--
 
 [.the-end]
 The End

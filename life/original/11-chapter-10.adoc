@@ -230,6 +230,10 @@ How the Lord Hath Begun and Carried on His Work to this Day.
 About the middle of the ninth month he addressed the following
 letter to some of his friends in the country.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear and beloved Friends!
 
 The lively remembrance of you dwells always with me,
@@ -296,6 +300,8 @@ and we desire the same spirit may dwell and abide in you also,
 that ye may be likeminded with us, and we all of the mind of Christ,
 who seeks men`'s salvation, and not their destruction.
 
+--
+
 King Charles, who appears to have entertained much respect for Edward Burrough,
 hearing of the crowded condition of the prison,
 and the number who were sick or dying in it,
@@ -359,6 +365,8 @@ through his life of laborious dedication to the gospel,
 and his peaceful and triumphant death,
 can subscribe to the language of George Fox respecting him:
 
+[quote]
+____
 His name is chronicled in the Lamb`'s book of life, a righteous spirit, pure,
 chaste and clean.
 Who can tax him with oppressing them, or burdening them, or being chargeable to them,
@@ -372,3 +380,4 @@ never turned his back on the truth, nor his back from any out of the truth.
 A valiant warrior, more than a conqueror,
 who hath got the crown through death and sufferings.
 Who is dead, yet liveth amongst us.
+____
