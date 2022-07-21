@@ -278,7 +278,7 @@ writings from the prolific pen of his friend,
 and father in the truth, George Fox.
 To some of these he prefixed or added a few lines.
 A preface written by him to one of these publications,
-entitled A Testimony of the True Light of the World,
+entitled [.book-title]#A Testimony of the True Light of the World,#
 bears date the 1st of the eleventh month, 1656.
 In this preface he says;
 "`This is truth from the Lord God,--there is no other name given for salvation,
@@ -302,7 +302,7 @@ and being stirred up by the reply of Edward Burrough,
 he came out in print with a "`Vindication`" of his
 former charges against the Society of Friends.
 Edward was not long in following him through the press with an answer,
-in a quarto of 64 pages, entitled, Truth the Strongest of All.
+in a quarto of 64 pages, entitled, [.book-title]#Truth the Strongest of All.#
 This reply set forth the doctrines of the Christian religion in words,
 which to one who was prepared to understand the language employed,
 and to give credit to the author for sincerity,
@@ -948,7 +948,7 @@ Edward Burrough.
 --
 
 During this same month (3rd), Edward Burrough wrote a paper, which he terms,
-A Measure of the Times,
+_A Measure of the Times,_
 in which he takes a view of the glory of the first
 Christian churches,--their subsequent declension,
 and the final triumph of mystery Babylon,

@@ -113,8 +113,8 @@ Next day we parted, he for London and I for home.`"
 
 This was about the beginning of the eleventh month.
 In that same month,
-Edward wrote a postscript to Francis Howgill`'s Heart
-of New England Hardened Through Wickedness.
+Edward wrote a postscript to Francis Howgill`'s _Heart
+of New England Hardened Through Wickedness._
 This contains a sharp reproof to that hard-hearted, liberty-loving,
 as well as liberty-restricting people.
 It thus concludes: "`O, have you forgotten since you were sufferers yourselves?
@@ -274,9 +274,9 @@ concluding with a proposition to hold a public discussion with him at Kendal.
 No notice was taken of this challenge,
 but Brunsward soon afterward attempted to revenge himself on Edward,
 for the doubt insinuated in the Queries as to his true call to the ministry,
-by writing a book, entitled The Quaker-Jesuit, or Popery in Quakerism.
-This book was answered by John Story, in a tract called Babylon`'s Defence Broken Down,
-and One of Antichrist`'s Warriors Defeated.
+by writing a book, entitled [.book-title]#The Quaker-Jesuit, or Popery in Quakerism.#
+This book was answered by John Story, in a tract called _Babylon`'s Defence Broken Down,
+and One of Antichrist`'s Warriors Defeated._
 Edward Burrough added some remarks to this,
 publishing the Queries he had formerly sent to Brunsward,
 and renewing the challenge to meet him at Kendal.
@@ -312,7 +312,7 @@ and under the names of Quakers, Ranters, Seekers, etc.,
 oppugning the received doctrine and unquestionable interest of Christ Jesus.`"
 
 To these heavy accusations against the society of Friends,
-Edward Burrough published a reply, entitled, A Return to the Ministers of London,
+Edward Burrough published a reply, entitled, _A Return to the Ministers of London,_
 in which he successfully refutes the accusations,
 and gives much pertinent advice to the authors of them.
 From this Essay the following is extracted:
@@ -518,8 +518,8 @@ And seeing you know this, live in the way of peace, and escape the other,
 that you may not come into condemnation;
 for it is a fearful thing to fall into the condemnation and wrath of the Almighty.
 
-For this cause, that men should be saved from wrath, and have peace with God,
-the Lord has sent abroad plentifully in this nation the message of life and salvation,
+For this cause, that men should be _saved from wrath, and have peace with God,
+the Lord has sent abroad plentifully in this nation the message of life and salvation,_
 and you have received it, and believed the report,
 though many have rejected it to their destruction, whose judgment will be upon them.
 But you have tasted, handled, and felt of the Word of eternal life,
@@ -749,11 +749,11 @@ drew up several Queries addressed to Friends on this subject.
 It had this heading; "`To the Quakers, some Queries are sent to be answered,
 that all people may know your spirit, and the temper of it,
 and your judgment concerning the times and seasons.`"
-This was added; "`Let your answer be directed, Tradite hanc Amico Regis.`"
+This was added; "`Let your answer be directed, __Tradite hanc Amico Regis.__`"
 "`Deliver this to the king`'s friend.`"
 
 About the middle of the third month, Edward Burrough replied to this in a work,
-entitled A Visitation and Presentation of Love unto the King and Those Called Royalists.
+entitled _A Visitation and Presentation of Love unto the King and Those Called Royalists._
 
 In this Essay he replies to a number of queries propounded to the Society,
 relative to the state of affairs in the government.
@@ -775,12 +775,12 @@ he felt his heart drawn in love to salute his fellow-believers in London with an
 
 He remained some time labouring among Friends in the west.
 On the 4th of the sixth month he was at Bristol, where he had been for several weeks.
-While at this place he wrote A Presentation of Wholesome
-Information to the King of England.
+While at this place he wrote _A Presentation of Wholesome
+Information to the King of England._
 This was a defence of the Society of Friends from
 an attack made upon them by a George Wellington,
 of Bristol, in a work then just published,
-entitled The Thrice Happy Welcome of King Charles the Second.
+entitled _The Thrice Happy Welcome of King Charles the Second._
 
 Of his labour at Bristol he says,
 "`I continued about Bristol two months in much precious service for the Lord,
@@ -993,7 +993,7 @@ It was an endeavour on behalf of the rulers in New
 England to justify their persecution of Friends,
 and the taking of their lives.
 To expose the fallacies of this address, Edward Burrough was soon ready with a work,
-entitled Some Considerations, in which he says:
+entitled _Some Considerations,_ in which he says:
 
 I do testify to the king, and before the whole world,
 that we do profess and believe concerning the Father, Son and Spirit,
@@ -1032,23 +1032,23 @@ that men should live in these things, and forsake all that which is contrary.
 As many things were stated falsely concerning the doctrines and practices of Friends,
 Edward Burrough deemed it right to draw up something
 more full on some points than he had yet done.
-He accordingly prepared A Just and Righteous Plea,
-Presented unto the King of England and Council.
+He accordingly prepared _A Just and Righteous Plea,
+Presented unto the King of England and Council._
 In this he treats on "`swearing,`" "`meetings for worship,`" "`tithes,`"
 "`giving security to live peaceably,`" "`concerning government,`" and "`persecution.`"
 It is preceded by an epistle to the king and his council,
 written on the 10th of the second month, 1661.
 
-About this time a book came forth anonymously, bearing the title, Semper Idem,
-or A Parallel of Fanatics.
+About this time a book came forth anonymously, bearing the title, [.book-title]#Semper Idem,#
+or [.book-title]#A Parallel of Fanatics.#
 This was the production of a Roman Catholic,
 and appeared as a justification of the burning of
 those Protestants commonly called martyrs,
 who are designated ancient fanatics.
-To this work Edward replied in a publication entitled, Persecution Impeached,
+To this work Edward replied in a publication entitled, _Persecution Impeached,
 as a Traitor Against God, His Laws and Government;
 and the Cause of the Ancient Martyrs Vindicated,
-Against the Cruelty Inflicted Upon Them by the Papists of Former Days,
+Against the Cruelty Inflicted Upon Them by the Papists of Former Days,_
 "`Wherein is contained a relation of the martyrdom of many
 such as dissented and opposed the Church of Rome;
 who are in the said book vilified and reproached by the name and term of ancient fanatics.
@@ -1059,5 +1059,5 @@ the one as ancient, the other as modern fanatics.`"
 
 On the 26th of third month, 1661,
 Edward again appeared as a champion of the violated rights of man, in an Address,
-entitled The Case of Free Liberty of Conscience in the Exercise of Faith and Religion,
-Presented to the King and Both Houses of Parliament.
+entitled _The Case of Free Liberty of Conscience in the Exercise of Faith and Religion,
+Presented to the King and Both Houses of Parliament._

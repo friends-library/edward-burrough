@@ -290,13 +290,13 @@ and their hearts changed by the Holy Spirit.
 The hirelings pretend to make Christians by sprinkling them with water while infants.`"
 
 A priest in London, whose name was John Jackson, in 1657,
-published a book against Friends, entitled, Hosanna to the Son of David.
+published a book against Friends, entitled, [.book-title]#Hosanna to the Son of David.#
 In this much was said about James Nayler and his fall,
 and the truth was held up in derision because thereof.
 
 Richard Hubberthorn wrote an answer to the book, with the title,
-The Cause of Stumbling Removed From All that will Receive the Truth,
-and From Before the Wise Men of London.
+_The Cause of Stumbling Removed From All that will Receive the Truth,
+and From Before the Wise Men of London._
 To this book, on the 3rd of ninth month, Edward Burrough wrote a preface,
 in which he says: "`Though the Lord`'s people be a suffering people,
 yet woe unto them that cause them to suffer.
@@ -316,8 +316,8 @@ yet it is over, and truth stands atop of it,
 and the beauty of truth appears through it all,
 for truth is more lovely when it is proved and purged.`"
 
-In this year he also wrote a doctrinal work, entitled A Standard Lifted Up,
-and an Ensign Held Forth to All Nations;
+In this year he also wrote a doctrinal work, entitled [.book-title]#A Standard Lifted Up,
+and an Ensign Held Forth to All Nations;#
 in which he sets forth some of the principles and
 testimonies of the religious Society of Friends.
 This work contains the following, viz.:
@@ -1439,8 +1439,8 @@ three times went out of the pulpit, and finally went away.
 
 After the dispute, Edward returned to London,
 where in the tenth month he finished a work entitled
-The True Christian Religion Again Discovered,
-After the Long and Dark Night of Apostasy.
+_The True Christian Religion Again Discovered,
+After the Long and Dark Night of Apostasy._
 It commences thus:
 
 [.embedded-content-document]
@@ -1623,7 +1623,7 @@ with all his subtlety,
 was altogether unable to stand against the honest
 straight forward simplicity of George Fox,
 and he most signally failed in the controversy.
-The following account of this interview is from the Journal of George Fox, viz.
+The following account of this interview is from the [.book-title]#Journal of George Fox,# viz.
 
 [quote]
 ____
